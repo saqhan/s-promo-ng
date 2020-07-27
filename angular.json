@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "s-promo-ng"
+    }
+  },
+  "defaultProject": "s-promo-ng",
+  "cli": {
+    "analytics": "4da7c1de-210b-4631-b14f-5e86cfe01c91"
+  }
 }
