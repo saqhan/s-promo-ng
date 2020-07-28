@@ -25,6 +25,10 @@ export class AppComponent {
     return this.storeBlog.getPortfolio();
   }
 
+  public getContactForm(){
+    return this.storeBlog.getContactForm();
+  }
+
 
   ngOnInit(): void {
   }
